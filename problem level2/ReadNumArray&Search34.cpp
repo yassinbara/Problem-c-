@@ -64,7 +64,7 @@ void PrintNumberSeach(int number, int arr[100], int arrlength)
     {
         cout << "The number is not found : :-( " << endl;
     }
-    else
+    else 
     {
         cout << "The number found at position : " << NumPosistion << endl;
         cout << "the number found its order : " << NumPosistion + 1 << endl;
